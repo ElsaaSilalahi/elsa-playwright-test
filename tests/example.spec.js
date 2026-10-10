@@ -19,3 +19,4 @@ test('get started link', async ({ page }) => {
 });
 // example.spec.js
 // tes ubah ke not staged
+// ini adalah example test file
